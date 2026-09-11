@@ -1,0 +1,14 @@
+# Ignore environment variables and API keys
+.env
+.env.local
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+bot.log
+
+# Virtual environment
+venv/
+.venv/
+env/
