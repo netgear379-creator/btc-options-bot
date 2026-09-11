@@ -1,0 +1,4 @@
+entry,exit,structure,expiry,dte_at_entry,qty,credit,width,credit_ratio,pop,ev_per_ct,entry_spot,exit_debit,reason,pnl,risk
+2025-10-17,2025-10-20,put_credit,2025-11-07,21,13,0.26,1.0,0.26,0.9342,15.82,60.47,0.06,profit_target,205.4,962.0
+2025-10-21,2025-10-22,call_credit,2025-11-14,24,14,0.3,1.0,0.3,0.9327,19.4,63.49,0.12,profit_target,193.2,980.0
+2026-05-14,2026-05-15,put_credit,2026-06-26,43,13,0.26,1.0,0.26,0.8681,9.63,46.17,0.13,profit_target,114.4,962.0

@@ -1,0 +1,46 @@
+{
+  "period": "2024-11-25 to 2026-09-09",
+  "trading_days": 447,
+  "starting_equity": 100000.0,
+  "ending_equity": 104533.52,
+  "total_return_pct": 4.53,
+  "cagr_pct": 2.51,
+  "max_drawdown_pct": -0.64,
+  "sharpe": 2.18,
+  "sortino": 0.81,
+  "trades": 33,
+  "still_open_at_end": 0,
+  "win_rate_pct": 87.9,
+  "profit_factor": 9.13,
+  "avg_win": 175.55,
+  "avg_loss": -139.38,
+  "largest_loss": -435.43,
+  "expectancy_per_trade": 137.38,
+  "exits_by_reason": {
+    "profit_target": {
+      "n": 27,
+      "pnl": 5046.21
+    },
+    "stop_loss": {
+      "n": 1,
+      "pnl": -435.43
+    },
+    "trail": {
+      "n": 5,
+      "pnl": -77.26
+    }
+  },
+  "pct_legs_marked_from_real_prints": 92.7,
+  "trades_by_year": {
+    "2024": 6,
+    "2025": 26,
+    "2026": 1
+  },
+  "pnl_by_year": {
+    "2024": 736.76,
+    "2025": 3673.56,
+    "2026": 123.2
+  },
+  "buy_hold_return_pct": -18.01,
+  "buy_hold_max_drawdown_pct": -53.3
+}

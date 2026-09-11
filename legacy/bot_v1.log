@@ -1,0 +1,1198 @@
+2026-09-10 14:20:56,429 [INFO] ============================================================
+2026-09-10 14:20:56,443 [INFO] BITCOIN OPTIONS BOT - STATUS REPORT
+2026-09-10 14:20:56,443 [INFO] ============================================================
+2026-09-10 14:20:56,443 [INFO] Market Open       : True
+2026-09-10 14:20:56,443 [INFO] Next Close        : 2026-09-10 16:00:00-04:00
+2026-09-10 14:20:56,443 [INFO] Portfolio Value   : $99,996.95
+2026-09-10 14:20:56,443 [INFO] Cash Balance      : $100,007.95
+2026-09-10 14:20:56,443 [INFO] Buying Power      : $399,631.80
+2026-09-10 14:20:56,443 [INFO] Active IBIT Legs  : 2
+2026-09-10 14:20:56,443 [INFO] ------------------------------------------------------------
+2026-09-10 14:20:56,443 [INFO] Symbol                   Qty    Market Val   Unrealized P&L 
+2026-09-10 14:20:56,443 [INFO] ------------------------------------------------------------
+2026-09-10 14:20:56,444 [INFO] IBIT260923P00039500      1      $17.00       $-2.00         
+2026-09-10 14:20:56,444 [INFO] IBIT260923P00040500      -1     $-28.00      $-1.00         
+2026-09-10 14:20:56,444 [INFO] ============================================================
+2026-09-10 14:21:02,674 [INFO] ============================================================
+2026-09-10 14:21:02,674 [INFO] BITCOIN OPTIONS BOT - STATUS REPORT
+2026-09-10 14:21:02,674 [INFO] ============================================================
+2026-09-10 14:21:02,675 [INFO] Market Open       : True
+2026-09-10 14:21:02,675 [INFO] Next Close        : 2026-09-10 16:00:00-04:00
+2026-09-10 14:21:02,675 [INFO] Portfolio Value   : $99,996.95
+2026-09-10 14:21:02,675 [INFO] Cash Balance      : $100,007.95
+2026-09-10 14:21:02,675 [INFO] Buying Power      : $399,631.80
+2026-09-10 14:21:02,675 [INFO] Active IBIT Legs  : 2
+2026-09-10 14:21:02,675 [INFO] ------------------------------------------------------------
+2026-09-10 14:21:02,675 [INFO] Symbol                   Qty    Market Val   Unrealized P&L 
+2026-09-10 14:21:02,675 [INFO] ------------------------------------------------------------
+2026-09-10 14:21:02,675 [INFO] IBIT260923P00039500      1      $17.00       $-2.00         
+2026-09-10 14:21:02,675 [INFO] IBIT260923P00040500      -1     $-28.00      $-1.00         
+2026-09-10 14:21:02,675 [INFO] ============================================================
+2026-09-10 14:21:02,695 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 14:21:02,752 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 14:21:08,673 [INFO] ============================================================
+2026-09-10 14:21:08,674 [INFO] BITCOIN OPTIONS BOT - STATUS REPORT
+2026-09-10 14:21:08,674 [INFO] ============================================================
+2026-09-10 14:21:08,674 [INFO] Market Open       : True
+2026-09-10 14:21:08,674 [INFO] Next Close        : 2026-09-10 16:00:00-04:00
+2026-09-10 14:21:08,675 [INFO] Portfolio Value   : $99,996.95
+2026-09-10 14:21:08,675 [INFO] Cash Balance      : $100,007.95
+2026-09-10 14:21:08,675 [INFO] Buying Power      : $399,631.80
+2026-09-10 14:21:08,675 [INFO] Active IBIT Legs  : 2
+2026-09-10 14:21:08,675 [INFO] ------------------------------------------------------------
+2026-09-10 14:21:08,675 [INFO] Symbol                   Qty    Market Val   Unrealized P&L 
+2026-09-10 14:21:08,675 [INFO] ------------------------------------------------------------
+2026-09-10 14:21:08,675 [INFO] IBIT260923P00039500      1      $17.00       $-2.00         
+2026-09-10 14:21:08,676 [INFO] IBIT260923P00040500      -1     $-28.00      $-1.00         
+2026-09-10 14:21:08,676 [INFO] ============================================================
+2026-09-10 14:27:55,364 [INFO] [*] Starting Bitcoin Options Bot daemon loop...
+2026-09-10 14:27:55,364 [INFO] [*] Polling interval: every 300 seconds.
+2026-09-10 14:27:55,437 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 14:27:55,527 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 14:32:55,594 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 14:32:55,675 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 14:37:55,758 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 14:37:55,845 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 14:42:55,927 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 14:42:56,010 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 14:47:56,096 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 14:47:56,195 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 14:52:56,293 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 14:52:56,381 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 14:57:56,463 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 14:57:56,546 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 15:02:56,646 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:02:56,738 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 15:07:56,812 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:07:56,888 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 15:12:56,986 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:12:57,076 [INFO] [*] Max positions reached (1 spread active). Holding.
+2026-09-10 15:17:25,205 [INFO] =================================================================
+2026-09-10 15:17:25,206 [INFO] BITCOIN OPTIONS BOT - STATUS REPORT
+2026-09-10 15:17:25,206 [INFO] =================================================================
+2026-09-10 15:17:25,206 [INFO] Market Open         : True
+2026-09-10 15:17:25,207 [INFO] Next Close          : 2026-09-10 16:00:00-04:00
+2026-09-10 15:17:25,207 [INFO] Portfolio Value     : $99,996.95
+2026-09-10 15:17:25,207 [INFO] Available Cash      : $100,007.95
+2026-09-10 15:17:25,207 [INFO] 20% Cash Allocation : $20,001.59
+2026-09-10 15:17:25,207 [INFO] Active IBIT Legs    : 2
+2026-09-10 15:17:25,207 [INFO] -----------------------------------------------------------------
+2026-09-10 15:17:25,208 [INFO] Symbol                   Qty    Market Val   Unrealized P&L 
+2026-09-10 15:17:25,208 [INFO] -----------------------------------------------------------------
+2026-09-10 15:17:25,208 [INFO] IBIT260923P00039500      1      $17.00       $-2.00         
+2026-09-10 15:17:25,208 [INFO] IBIT260923P00040500      -1     $-28.00      $-1.00         
+2026-09-10 15:17:25,208 [INFO] =================================================================
+2026-09-10 15:17:30,563 [INFO] =================================================================
+2026-09-10 15:17:30,564 [INFO] BITCOIN OPTIONS BOT - STATUS REPORT
+2026-09-10 15:17:30,565 [INFO] =================================================================
+2026-09-10 15:17:30,565 [INFO] Market Open         : True
+2026-09-10 15:17:30,565 [INFO] Next Close          : 2026-09-10 16:00:00-04:00
+2026-09-10 15:17:30,566 [INFO] Portfolio Value     : $99,996.95
+2026-09-10 15:17:30,566 [INFO] Available Cash      : $100,007.95
+2026-09-10 15:17:30,566 [INFO] 20% Cash Allocation : $20,001.59
+2026-09-10 15:17:30,566 [INFO] Active IBIT Legs    : 2
+2026-09-10 15:17:30,566 [INFO] -----------------------------------------------------------------
+2026-09-10 15:17:30,566 [INFO] Symbol                   Qty    Market Val   Unrealized P&L 
+2026-09-10 15:17:30,566 [INFO] -----------------------------------------------------------------
+2026-09-10 15:17:30,566 [INFO] IBIT260923P00039500      1      $17.00       $-2.00         
+2026-09-10 15:17:30,566 [INFO] IBIT260923P00040500      -1     $-28.00      $-1.00         
+2026-09-10 15:17:30,567 [INFO] =================================================================
+2026-09-10 15:17:30,587 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:17:30,771 [INFO] [*] Scanning near-term market for setups (Cash: $100,007.95 | 20% Target: $20,001.59)...
+2026-09-10 15:17:31,101 [INFO] [+] High-probability trade found (POP: 69.0%, Qty: 133 contracts).
+2026-09-10 15:17:31,101 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:17:31,101 [INFO]     - Quantity (20% Cash): 133 contracts (Committed: $19,950.00)
+2026-09-10 15:17:31,101 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:17:31,101 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:17:31,101 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:17:31,101 [INFO]     - Net Credit Target  : $0.06/share ($798.00 total max gain)
+2026-09-10 15:17:31,102 [INFO]     - Max Risk           : $19,152.00
+2026-09-10 15:17:31,102 [INFO]     - Win Probability    : ~69.0%
+2026-09-10 15:17:31,140 [INFO] [+] Spread order submitted successfully! Order ID: a299422e-1092-479b-9fa8-975f9eb479da, Status: OrderStatus.PENDING_NEW
+2026-09-10 15:17:42,869 [INFO] [*] Starting Bitcoin Options High-Frequency Bot daemon loop...
+2026-09-10 15:17:42,869 [INFO] [*] Dynamic Sizing : 20% of available cash per trade
+2026-09-10 15:17:42,869 [INFO] [*] Polling Speed  : every 30 seconds.
+2026-09-10 15:17:42,869 [INFO] [*] Max Spreads    : up to 5 concurrent active spreads.
+2026-09-10 15:17:42,951 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:17:43,099 [INFO] [*] Scanning near-term market for setups (Cash: $100,007.95 | 20% Target: $20,001.59)...
+2026-09-10 15:17:43,397 [INFO] [+] High-probability trade found (POP: 69.0%, Qty: 133 contracts).
+2026-09-10 15:17:43,397 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:17:43,397 [INFO]     - Quantity (20% Cash): 133 contracts (Committed: $19,950.00)
+2026-09-10 15:17:43,398 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:17:43,398 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:17:43,398 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:17:43,398 [INFO]     - Net Credit Target  : $0.06/share ($798.00 total max gain)
+2026-09-10 15:17:43,398 [INFO]     - Max Risk           : $19,152.00
+2026-09-10 15:17:43,399 [INFO]     - Win Probability    : ~69.0%
+2026-09-10 15:17:43,430 [INFO] [+] Spread order submitted successfully! Order ID: 4db84cd9-64a2-49ec-91ad-e6ef16bc4ebd, Status: OrderStatus.PENDING_NEW
+2026-09-10 15:18:13,452 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:18:13,624 [INFO] [*] Scanning near-term market for setups (Cash: $100,007.95 | 20% Target: $20,001.59)...
+2026-09-10 15:18:13,827 [INFO] [+] High-probability trade found (POP: 63.3%, Qty: 200 contracts).
+2026-09-10 15:18:13,827 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:18:13,827 [INFO]     - Quantity (20% Cash): 200 contracts (Committed: $20,000.00)
+2026-09-10 15:18:13,827 [INFO]     - Short Leg (Sell)   : IBIT260911P00042500 @ Strike $42.5
+2026-09-10 15:18:13,827 [INFO]     - Long Leg  (Buy)    : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:18:13,827 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:18:13,828 [INFO]     - Net Credit Target  : $0.07/share ($1,400.00 total max gain)
+2026-09-10 15:18:13,828 [INFO]     - Max Risk           : $18,600.00
+2026-09-10 15:18:13,828 [INFO]     - Win Probability    : ~63.3%
+2026-09-10 15:18:13,852 [INFO] [+] Spread order submitted successfully! Order ID: 05473b5e-17d7-42e6-b696-6c1b193696b5, Status: OrderStatus.PENDING_NEW
+2026-09-10 15:18:43,890 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:18:44,075 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:18:44,228 [INFO] [+] High-probability trade found (POP: 68.8%, Qty: 134 contracts).
+2026-09-10 15:18:44,230 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:18:44,230 [INFO]     - Quantity (20% Cash): 134 contracts (Committed: $20,100.00)
+2026-09-10 15:18:44,230 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:18:44,230 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:18:44,230 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:18:44,230 [INFO]     - Net Credit Target  : $0.04/share ($536.00 total max gain)
+2026-09-10 15:18:44,231 [INFO]     - Max Risk           : $19,564.00
+2026-09-10 15:18:44,231 [INFO]     - Win Probability    : ~68.8%
+2026-09-10 15:18:44,254 [INFO] [+] Spread order submitted successfully! Order ID: ebde4d8e-9bc3-46a9-af99-d5b514f5ee0e, Status: OrderStatus.PENDING_NEW
+2026-09-10 15:19:14,270 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:19:14,356 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:19:14,510 [INFO] [+] High-probability trade found (POP: 69.0%, Qty: 201 contracts).
+2026-09-10 15:19:14,510 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:19:14,510 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:19:14,510 [INFO]     - Short Leg (Sell)   : IBIT260914P00042000 @ Strike $42.0
+2026-09-10 15:19:14,510 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041000 @ Strike $41.0
+2026-09-10 15:19:14,510 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:19:14,510 [INFO]     - Net Credit Target  : $0.10/share ($2,010.00 total max gain)
+2026-09-10 15:19:14,510 [INFO]     - Max Risk           : $18,090.00
+2026-09-10 15:19:14,510 [INFO]     - Win Probability    : ~69.0%
+2026-09-10 15:19:14,589 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"22110","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:19:44,656 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:19:44,744 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:19:44,907 [INFO] [+] High-probability trade found (POP: 69.0%, Qty: 201 contracts).
+2026-09-10 15:19:44,907 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:19:44,908 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:19:44,908 [INFO]     - Short Leg (Sell)   : IBIT260914P00042000 @ Strike $42.0
+2026-09-10 15:19:44,908 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041000 @ Strike $41.0
+2026-09-10 15:19:44,908 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:19:44,909 [INFO]     - Net Credit Target  : $0.04/share ($804.00 total max gain)
+2026-09-10 15:19:44,909 [INFO]     - Max Risk           : $19,296.00
+2026-09-10 15:19:44,909 [INFO]     - Win Probability    : ~69.0%
+2026-09-10 15:19:44,933 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20904","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:20:14,964 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:20:15,215 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:20:15,604 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 80 contracts).
+2026-09-10 15:20:15,604 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:20:15,605 [INFO]     - Quantity (20% Cash): 80 contracts (Committed: $20,000.00)
+2026-09-10 15:20:15,605 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:20:15,605 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039000 @ Strike $39.0
+2026-09-10 15:20:15,605 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:20:15,605 [INFO]     - Net Credit Target  : $0.05/share ($400.00 total max gain)
+2026-09-10 15:20:15,605 [INFO]     - Max Risk           : $19,600.00
+2026-09-10 15:20:15,605 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:20:15,629 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:20:45,651 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:20:45,749 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:20:45,907 [INFO] [+] High-probability trade found (POP: 68.8%, Qty: 201 contracts).
+2026-09-10 15:20:45,908 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:20:45,908 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:20:45,908 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:20:45,908 [INFO]     - Long Leg  (Buy)    : IBIT260911P00041000 @ Strike $41.0
+2026-09-10 15:20:45,908 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:20:45,908 [INFO]     - Net Credit Target  : $0.06/share ($1,206.00 total max gain)
+2026-09-10 15:20:45,908 [INFO]     - Max Risk           : $18,894.00
+2026-09-10 15:20:45,908 [INFO]     - Win Probability    : ~68.8%
+2026-09-10 15:20:45,943 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21306","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:21:15,966 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:21:16,070 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:21:16,232 [INFO] [+] High-probability trade found (POP: 68.8%, Qty: 201 contracts).
+2026-09-10 15:21:16,233 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:21:16,233 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:21:16,234 [INFO]     - Short Leg (Sell)   : IBIT260914P00042000 @ Strike $42.0
+2026-09-10 15:21:16,234 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041000 @ Strike $41.0
+2026-09-10 15:21:16,234 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:21:16,234 [INFO]     - Net Credit Target  : $0.07/share ($1,407.00 total max gain)
+2026-09-10 15:21:16,234 [INFO]     - Max Risk           : $18,693.00
+2026-09-10 15:21:16,234 [INFO]     - Win Probability    : ~68.8%
+2026-09-10 15:21:16,277 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21507","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:21:46,301 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:21:46,445 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:21:46,647 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 80 contracts).
+2026-09-10 15:21:46,647 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:21:46,648 [INFO]     - Quantity (20% Cash): 80 contracts (Committed: $20,000.00)
+2026-09-10 15:21:46,648 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:21:46,648 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039000 @ Strike $39.0
+2026-09-10 15:21:46,648 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:21:46,648 [INFO]     - Net Credit Target  : $0.05/share ($400.00 total max gain)
+2026-09-10 15:21:46,649 [INFO]     - Max Risk           : $19,600.00
+2026-09-10 15:21:46,649 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:21:46,672 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:22:16,692 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:22:16,811 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:22:16,923 [INFO] [+] High-probability trade found (POP: 68.8%, Qty: 201 contracts).
+2026-09-10 15:22:16,923 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:22:16,923 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:22:16,923 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:22:16,923 [INFO]     - Long Leg  (Buy)    : IBIT260911P00041000 @ Strike $41.0
+2026-09-10 15:22:16,925 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:22:16,925 [INFO]     - Net Credit Target  : $0.06/share ($1,206.00 total max gain)
+2026-09-10 15:22:16,925 [INFO]     - Max Risk           : $18,894.00
+2026-09-10 15:22:16,925 [INFO]     - Win Probability    : ~68.8%
+2026-09-10 15:22:16,951 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21306","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:22:46,974 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:22:47,151 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:22:47,246 [INFO] [+] High-probability trade found (POP: 68.9%, Qty: 201 contracts).
+2026-09-10 15:22:47,246 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:22:47,247 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:22:47,247 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:22:47,247 [INFO]     - Long Leg  (Buy)    : IBIT260911P00041000 @ Strike $41.0
+2026-09-10 15:22:47,247 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:22:47,248 [INFO]     - Net Credit Target  : $0.06/share ($1,206.00 total max gain)
+2026-09-10 15:22:47,248 [INFO]     - Max Risk           : $18,894.00
+2026-09-10 15:22:47,248 [INFO]     - Win Probability    : ~68.9%
+2026-09-10 15:22:47,291 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21306","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:23:17,326 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:23:17,464 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:23:17,573 [INFO] [+] High-probability trade found (POP: 68.8%, Qty: 134 contracts).
+2026-09-10 15:23:17,574 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:23:17,574 [INFO]     - Quantity (20% Cash): 134 contracts (Committed: $20,100.00)
+2026-09-10 15:23:17,574 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:23:17,574 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:23:17,574 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:23:17,575 [INFO]     - Net Credit Target  : $0.06/share ($804.00 total max gain)
+2026-09-10 15:23:17,575 [INFO]     - Max Risk           : $19,296.00
+2026-09-10 15:23:17,575 [INFO]     - Win Probability    : ~68.8%
+2026-09-10 15:23:17,605 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20904","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:23:47,623 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:23:47,792 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:23:47,884 [INFO] [+] High-probability trade found (POP: 68.8%, Qty: 201 contracts).
+2026-09-10 15:23:47,884 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:23:47,884 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:23:47,885 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:23:47,885 [INFO]     - Long Leg  (Buy)    : IBIT260911P00041000 @ Strike $41.0
+2026-09-10 15:23:47,885 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:23:47,885 [INFO]     - Net Credit Target  : $0.04/share ($804.00 total max gain)
+2026-09-10 15:23:47,885 [INFO]     - Max Risk           : $19,296.00
+2026-09-10 15:23:47,886 [INFO]     - Win Probability    : ~68.8%
+2026-09-10 15:23:47,910 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20904","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:24:17,933 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:24:18,043 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:24:18,289 [INFO] [+] High-probability trade found (POP: 68.8%, Qty: 201 contracts).
+2026-09-10 15:24:18,290 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:24:18,290 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:24:18,290 [INFO]     - Short Leg (Sell)   : IBIT260914P00042000 @ Strike $42.0
+2026-09-10 15:24:18,290 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041000 @ Strike $41.0
+2026-09-10 15:24:18,290 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:24:18,290 [INFO]     - Net Credit Target  : $0.08/share ($1,608.00 total max gain)
+2026-09-10 15:24:18,290 [INFO]     - Max Risk           : $18,492.00
+2026-09-10 15:24:18,290 [INFO]     - Win Probability    : ~68.8%
+2026-09-10 15:24:18,314 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21708","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:24:48,343 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:24:48,459 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:24:48,651 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 100 contracts).
+2026-09-10 15:24:48,652 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:24:48,652 [INFO]     - Quantity (20% Cash): 100 contracts (Committed: $20,000.00)
+2026-09-10 15:24:48,652 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:24:48,652 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039500 @ Strike $39.5
+2026-09-10 15:24:48,652 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:24:48,652 [INFO]     - Net Credit Target  : $0.05/share ($500.00 total max gain)
+2026-09-10 15:24:48,652 [INFO]     - Max Risk           : $19,500.00
+2026-09-10 15:24:48,653 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:24:48,674 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:25:18,693 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:25:18,810 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:25:18,944 [INFO] [+] High-probability trade found (POP: 69.5%, Qty: 201 contracts).
+2026-09-10 15:25:18,945 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:25:18,946 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:25:18,946 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:25:18,946 [INFO]     - Long Leg  (Buy)    : IBIT260911P00041000 @ Strike $41.0
+2026-09-10 15:25:18,946 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:25:18,946 [INFO]     - Net Credit Target  : $0.04/share ($804.00 total max gain)
+2026-09-10 15:25:18,947 [INFO]     - Max Risk           : $19,296.00
+2026-09-10 15:25:18,947 [INFO]     - Win Probability    : ~69.5%
+2026-09-10 15:25:18,988 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20904","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:25:49,021 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:25:49,199 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:25:49,321 [INFO] [+] High-probability trade found (POP: 69.3%, Qty: 134 contracts).
+2026-09-10 15:25:49,322 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:25:49,322 [INFO]     - Quantity (20% Cash): 134 contracts (Committed: $20,100.00)
+2026-09-10 15:25:49,322 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:25:49,323 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:25:49,323 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:25:49,323 [INFO]     - Net Credit Target  : $0.04/share ($536.00 total max gain)
+2026-09-10 15:25:49,323 [INFO]     - Max Risk           : $19,564.00
+2026-09-10 15:25:49,323 [INFO]     - Win Probability    : ~69.3%
+2026-09-10 15:25:49,360 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20636","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:26:19,382 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:26:19,500 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:26:19,634 [INFO] [+] High-probability trade found (POP: 69.3%, Qty: 201 contracts).
+2026-09-10 15:26:19,635 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:26:19,635 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:26:19,635 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:26:19,635 [INFO]     - Long Leg  (Buy)    : IBIT260911P00041000 @ Strike $41.0
+2026-09-10 15:26:19,635 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:26:19,635 [INFO]     - Net Credit Target  : $0.04/share ($804.00 total max gain)
+2026-09-10 15:26:19,635 [INFO]     - Max Risk           : $19,296.00
+2026-09-10 15:26:19,636 [INFO]     - Win Probability    : ~69.3%
+2026-09-10 15:26:19,660 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20904","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:26:49,678 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:26:49,770 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:26:49,858 [INFO] [+] High-probability trade found (POP: 69.3%, Qty: 201 contracts).
+2026-09-10 15:26:49,858 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:26:49,858 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:26:49,858 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:26:49,858 [INFO]     - Long Leg  (Buy)    : IBIT260911P00041000 @ Strike $41.0
+2026-09-10 15:26:49,859 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:26:49,859 [INFO]     - Net Credit Target  : $0.06/share ($1,206.00 total max gain)
+2026-09-10 15:26:49,859 [INFO]     - Max Risk           : $18,894.00
+2026-09-10 15:26:49,859 [INFO]     - Win Probability    : ~69.3%
+2026-09-10 15:26:49,884 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21306","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:27:19,902 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:27:20,022 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:27:20,160 [INFO] [+] High-probability trade found (POP: 69.3%, Qty: 201 contracts).
+2026-09-10 15:27:20,160 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:27:20,160 [INFO]     - Quantity (20% Cash): 201 contracts (Committed: $20,100.00)
+2026-09-10 15:27:20,160 [INFO]     - Short Leg (Sell)   : IBIT260914P00042000 @ Strike $42.0
+2026-09-10 15:27:20,160 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041000 @ Strike $41.0
+2026-09-10 15:27:20,160 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:27:20,160 [INFO]     - Net Credit Target  : $0.08/share ($1,608.00 total max gain)
+2026-09-10 15:27:20,160 [INFO]     - Max Risk           : $18,492.00
+2026-09-10 15:27:20,160 [INFO]     - Win Probability    : ~69.3%
+2026-09-10 15:27:20,183 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21708","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:27:50,209 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:27:50,317 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:27:50,470 [INFO] [+] High-probability trade found (POP: 69.3%, Qty: 100 contracts).
+2026-09-10 15:27:50,470 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:27:50,470 [INFO]     - Quantity (20% Cash): 100 contracts (Committed: $20,000.00)
+2026-09-10 15:27:50,470 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:27:50,470 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040000 @ Strike $40.0
+2026-09-10 15:27:50,471 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:27:50,471 [INFO]     - Net Credit Target  : $0.04/share ($400.00 total max gain)
+2026-09-10 15:27:50,471 [INFO]     - Max Risk           : $19,600.00
+2026-09-10 15:27:50,471 [INFO]     - Win Probability    : ~69.3%
+2026-09-10 15:27:50,543 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20400","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:28:20,644 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:28:20,792 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:28:20,946 [INFO] [+] High-probability trade found (POP: 69.3%, Qty: 134 contracts).
+2026-09-10 15:28:20,947 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:28:20,947 [INFO]     - Quantity (20% Cash): 134 contracts (Committed: $20,100.00)
+2026-09-10 15:28:20,948 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:28:20,948 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:28:20,948 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:28:20,948 [INFO]     - Net Credit Target  : $0.04/share ($536.00 total max gain)
+2026-09-10 15:28:20,948 [INFO]     - Max Risk           : $19,564.00
+2026-09-10 15:28:20,948 [INFO]     - Win Probability    : ~69.3%
+2026-09-10 15:28:21,013 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20636","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:28:51,043 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:28:51,123 [INFO] [*] Scanning near-term market for setups (Cash: $100,797.95 | 20% Target: $20,159.59)...
+2026-09-10 15:28:51,245 [INFO] [+] High-probability trade found (POP: 69.3%, Qty: 134 contracts).
+2026-09-10 15:28:51,245 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:28:51,245 [INFO]     - Quantity (20% Cash): 134 contracts (Committed: $20,100.00)
+2026-09-10 15:28:51,245 [INFO]     - Short Leg (Sell)   : IBIT260911P00042000 @ Strike $42.0
+2026-09-10 15:28:51,245 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:28:51,245 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:28:51,246 [INFO]     - Net Credit Target  : $0.04/share ($536.00 total max gain)
+2026-09-10 15:28:51,246 [INFO]     - Max Risk           : $19,564.00
+2026-09-10 15:28:51,246 [INFO]     - Win Probability    : ~69.3%
+2026-09-10 15:28:51,278 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20636","message":"insufficient options buying power","options_buying_power":"18565.95"}
+2026-09-10 15:29:21,298 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:29:21,373 [INFO] [*] Scanning near-term market for setups (Cash: $101,577.95 | 20% Target: $20,315.59)...
+2026-09-10 15:29:21,443 [INFO] [+] High-probability trade found (POP: 75.2%, Qty: 203 contracts).
+2026-09-10 15:29:21,443 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:29:21,443 [INFO]     - Quantity (20% Cash): 203 contracts (Committed: $20,300.00)
+2026-09-10 15:29:21,443 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:29:21,443 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:29:21,443 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:29:21,443 [INFO]     - Net Credit Target  : $0.05/share ($1,015.00 total max gain)
+2026-09-10 15:29:21,443 [INFO]     - Max Risk           : $19,285.00
+2026-09-10 15:29:21,444 [INFO]     - Win Probability    : ~75.2%
+2026-09-10 15:29:21,463 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:29:51,490 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:29:51,584 [INFO] [*] Scanning near-term market for setups (Cash: $101,577.95 | 20% Target: $20,315.59)...
+2026-09-10 15:29:51,747 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 135 contracts).
+2026-09-10 15:29:51,747 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:29:51,747 [INFO]     - Quantity (20% Cash): 135 contracts (Committed: $20,250.00)
+2026-09-10 15:29:51,747 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:29:51,748 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040000 @ Strike $40.0
+2026-09-10 15:29:51,748 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:29:51,748 [INFO]     - Net Credit Target  : $0.05/share ($675.00 total max gain)
+2026-09-10 15:29:51,748 [INFO]     - Max Risk           : $19,575.00
+2026-09-10 15:29:51,748 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:29:51,775 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:30:21,794 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:30:22,071 [INFO] [*] Scanning near-term market for setups (Cash: $101,577.95 | 20% Target: $20,315.59)...
+2026-09-10 15:30:22,337 [INFO] [+] High-probability trade found (POP: 69.0%, Qty: 203 contracts).
+2026-09-10 15:30:22,338 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:30:22,339 [INFO]     - Quantity (20% Cash): 203 contracts (Committed: $20,300.00)
+2026-09-10 15:30:22,339 [INFO]     - Short Leg (Sell)   : IBIT260914P00042000 @ Strike $42.0
+2026-09-10 15:30:22,339 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041000 @ Strike $41.0
+2026-09-10 15:30:22,339 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:30:22,339 [INFO]     - Net Credit Target  : $0.04/share ($812.00 total max gain)
+2026-09-10 15:30:22,339 [INFO]     - Max Risk           : $19,488.00
+2026-09-10 15:30:22,339 [INFO]     - Win Probability    : ~69.0%
+2026-09-10 15:30:22,370 [INFO] [+] Spread order submitted successfully! Order ID: 081cde34-d0db-44d7-a88b-b825eaab3c99, Status: OrderStatus.PENDING_NEW
+2026-09-10 15:30:52,391 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:30:52,549 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:30:52,791 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 205 contracts).
+2026-09-10 15:30:52,792 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:30:52,792 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:30:52,792 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:30:52,792 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:30:52,792 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:30:52,792 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:30:52,793 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:30:52,793 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:30:52,826 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21525","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:31:22,848 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:31:23,096 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:31:23,254 [INFO] [+] High-probability trade found (POP: 74.3%, Qty: 137 contracts).
+2026-09-10 15:31:23,256 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:31:23,257 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:31:23,257 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:31:23,257 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:31:23,258 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:31:23,258 [INFO]     - Net Credit Target  : $0.06/share ($822.00 total max gain)
+2026-09-10 15:31:23,259 [INFO]     - Max Risk           : $19,728.00
+2026-09-10 15:31:23,259 [INFO]     - Win Probability    : ~74.3%
+2026-09-10 15:31:23,294 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21372","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:31:53,315 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:31:53,412 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:31:53,742 [INFO] [+] High-probability trade found (POP: 74.4%, Qty: 205 contracts).
+2026-09-10 15:31:53,743 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:31:53,743 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:31:53,743 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:31:53,743 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:31:53,744 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:31:53,744 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:31:53,744 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:31:53,745 [INFO]     - Win Probability    : ~74.4%
+2026-09-10 15:31:53,786 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21525","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:32:23,827 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:32:23,909 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:32:24,186 [INFO] [+] High-probability trade found (POP: 74.3%, Qty: 137 contracts).
+2026-09-10 15:32:24,186 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:32:24,186 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:32:24,187 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:32:24,187 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:32:24,187 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:32:24,187 [INFO]     - Net Credit Target  : $0.04/share ($548.00 total max gain)
+2026-09-10 15:32:24,187 [INFO]     - Max Risk           : $20,002.00
+2026-09-10 15:32:24,187 [INFO]     - Win Probability    : ~74.3%
+2026-09-10 15:32:24,215 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21098","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:32:54,245 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:32:54,378 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:32:54,520 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 205 contracts).
+2026-09-10 15:32:54,520 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:32:54,521 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:32:54,521 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:32:54,521 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:32:54,521 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:32:54,521 [INFO]     - Net Credit Target  : $0.07/share ($1,435.00 total max gain)
+2026-09-10 15:32:54,521 [INFO]     - Max Risk           : $19,065.00
+2026-09-10 15:32:54,521 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:32:54,557 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21935","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:33:24,581 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:33:24,682 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:33:24,852 [INFO] [+] High-probability trade found (POP: 74.3%, Qty: 82 contracts).
+2026-09-10 15:33:24,853 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:33:24,853 [INFO]     - Quantity (20% Cash): 82 contracts (Committed: $20,500.00)
+2026-09-10 15:33:24,853 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:33:24,853 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039000 @ Strike $39.0
+2026-09-10 15:33:24,853 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:33:24,853 [INFO]     - Net Credit Target  : $0.05/share ($410.00 total max gain)
+2026-09-10 15:33:24,853 [INFO]     - Max Risk           : $20,090.00
+2026-09-10 15:33:24,854 [INFO]     - Win Probability    : ~74.3%
+2026-09-10 15:33:24,884 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:33:54,910 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:33:55,032 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:33:55,162 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 102 contracts).
+2026-09-10 15:33:55,162 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:33:55,162 [INFO]     - Quantity (20% Cash): 102 contracts (Committed: $20,400.00)
+2026-09-10 15:33:55,162 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:33:55,163 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039500 @ Strike $39.5
+2026-09-10 15:33:55,163 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:33:55,163 [INFO]     - Net Credit Target  : $0.05/share ($510.00 total max gain)
+2026-09-10 15:33:55,163 [INFO]     - Max Risk           : $19,890.00
+2026-09-10 15:33:55,163 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:33:55,200 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:34:25,221 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:34:25,357 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:34:25,638 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 205 contracts).
+2026-09-10 15:34:25,638 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:34:25,639 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:34:25,640 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:34:25,640 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:34:25,640 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:34:25,640 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:34:25,640 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:34:25,640 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:34:25,668 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21525","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:34:55,689 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:34:55,920 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:34:56,079 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 102 contracts).
+2026-09-10 15:34:56,080 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:34:56,080 [INFO]     - Quantity (20% Cash): 102 contracts (Committed: $20,400.00)
+2026-09-10 15:34:56,080 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:34:56,081 [INFO]     - Long Leg  (Buy)    : IBIT260914P00039500 @ Strike $39.5
+2026-09-10 15:34:56,081 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:34:56,081 [INFO]     - Net Credit Target  : $0.04/share ($408.00 total max gain)
+2026-09-10 15:34:56,081 [INFO]     - Max Risk           : $19,992.00
+2026-09-10 15:34:56,081 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:34:56,108 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20808","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:35:26,132 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:35:26,275 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:35:26,451 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 137 contracts).
+2026-09-10 15:35:26,451 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:35:26,452 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:35:26,452 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:35:26,452 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:35:26,452 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:35:26,452 [INFO]     - Net Credit Target  : $0.04/share ($548.00 total max gain)
+2026-09-10 15:35:26,452 [INFO]     - Max Risk           : $20,002.00
+2026-09-10 15:35:26,452 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:35:26,489 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21098","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:35:56,547 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:35:56,658 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:35:56,846 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 82 contracts).
+2026-09-10 15:35:56,847 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:35:56,847 [INFO]     - Quantity (20% Cash): 82 contracts (Committed: $20,500.00)
+2026-09-10 15:35:56,847 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:35:56,847 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039000 @ Strike $39.0
+2026-09-10 15:35:56,847 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:35:56,847 [INFO]     - Net Credit Target  : $0.05/share ($410.00 total max gain)
+2026-09-10 15:35:56,847 [INFO]     - Max Risk           : $20,090.00
+2026-09-10 15:35:56,847 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:35:56,867 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:36:26,885 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:36:26,997 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:36:27,281 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 82 contracts).
+2026-09-10 15:36:27,281 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:36:27,281 [INFO]     - Quantity (20% Cash): 82 contracts (Committed: $20,500.00)
+2026-09-10 15:36:27,281 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:36:27,282 [INFO]     - Long Leg  (Buy)    : IBIT260914P00039000 @ Strike $39.0
+2026-09-10 15:36:27,282 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:36:27,282 [INFO]     - Net Credit Target  : $0.08/share ($656.00 total max gain)
+2026-09-10 15:36:27,282 [INFO]     - Max Risk           : $19,844.00
+2026-09-10 15:36:27,282 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:36:27,318 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21156","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:36:57,362 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:36:57,475 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:36:57,657 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 82 contracts).
+2026-09-10 15:36:57,658 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:36:57,658 [INFO]     - Quantity (20% Cash): 82 contracts (Committed: $20,500.00)
+2026-09-10 15:36:57,659 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:36:57,659 [INFO]     - Long Leg  (Buy)    : IBIT260914P00039000 @ Strike $39.0
+2026-09-10 15:36:57,659 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:36:57,659 [INFO]     - Net Credit Target  : $0.06/share ($492.00 total max gain)
+2026-09-10 15:36:57,659 [INFO]     - Max Risk           : $20,008.00
+2026-09-10 15:36:57,659 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:36:57,689 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20992","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:37:27,707 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:37:27,845 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:37:28,096 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 205 contracts).
+2026-09-10 15:37:28,097 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:37:28,097 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:37:28,097 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:37:28,097 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:37:28,097 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:37:28,097 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:37:28,098 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:37:28,098 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:37:28,128 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21525","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:37:58,156 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:37:58,247 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:37:58,398 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 137 contracts).
+2026-09-10 15:37:58,398 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:37:58,398 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:37:58,398 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:37:58,399 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:37:58,399 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:37:58,399 [INFO]     - Net Credit Target  : $0.04/share ($548.00 total max gain)
+2026-09-10 15:37:58,399 [INFO]     - Max Risk           : $20,002.00
+2026-09-10 15:37:58,399 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:37:58,423 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21098","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:38:28,444 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:38:28,569 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:38:28,822 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 137 contracts).
+2026-09-10 15:38:28,822 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:38:28,822 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:38:28,822 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:38:28,822 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:38:28,822 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:38:28,822 [INFO]     - Net Credit Target  : $0.06/share ($822.00 total max gain)
+2026-09-10 15:38:28,823 [INFO]     - Max Risk           : $19,728.00
+2026-09-10 15:38:28,823 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:38:28,873 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21372","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:38:58,903 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:38:59,001 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:38:59,304 [INFO] [+] High-probability trade found (POP: 63.1%, Qty: 205 contracts).
+2026-09-10 15:38:59,304 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:38:59,304 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:38:59,304 [INFO]     - Short Leg (Sell)   : IBIT260914P00042500 @ Strike $42.5
+2026-09-10 15:38:59,305 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:38:59,305 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:38:59,305 [INFO]     - Net Credit Target  : $0.17/share ($3,485.00 total max gain)
+2026-09-10 15:38:59,305 [INFO]     - Max Risk           : $17,015.00
+2026-09-10 15:38:59,305 [INFO]     - Win Probability    : ~63.1%
+2026-09-10 15:38:59,328 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"23985","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:39:29,351 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:39:29,463 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:39:29,626 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 137 contracts).
+2026-09-10 15:39:29,626 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:39:29,626 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:39:29,627 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:39:29,627 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:39:29,627 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:39:29,627 [INFO]     - Net Credit Target  : $0.06/share ($822.00 total max gain)
+2026-09-10 15:39:29,627 [INFO]     - Max Risk           : $19,728.00
+2026-09-10 15:39:29,627 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:39:29,661 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21372","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:39:59,680 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:39:59,821 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:39:59,926 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 205 contracts).
+2026-09-10 15:39:59,926 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:39:59,926 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:39:59,927 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:39:59,927 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:39:59,927 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:39:59,927 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:39:59,927 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:39:59,927 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:39:59,952 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:40:29,984 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:40:30,091 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:40:30,409 [INFO] [+] High-probability trade found (POP: 75.1%, Qty: 102 contracts).
+2026-09-10 15:40:30,411 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:40:30,411 [INFO]     - Quantity (20% Cash): 102 contracts (Committed: $20,400.00)
+2026-09-10 15:40:30,411 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:40:30,411 [INFO]     - Long Leg  (Buy)    : IBIT260914P00039500 @ Strike $39.5
+2026-09-10 15:40:30,411 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:40:30,412 [INFO]     - Net Credit Target  : $0.06/share ($612.00 total max gain)
+2026-09-10 15:40:30,412 [INFO]     - Max Risk           : $19,788.00
+2026-09-10 15:40:30,412 [INFO]     - Win Probability    : ~75.1%
+2026-09-10 15:40:30,436 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21012","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:41:00,458 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:41:00,590 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:41:00,870 [INFO] [+] High-probability trade found (POP: 75.2%, Qty: 137 contracts).
+2026-09-10 15:41:00,870 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:41:00,871 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:41:00,871 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:41:00,871 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:41:00,871 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:41:00,871 [INFO]     - Net Credit Target  : $0.08/share ($1,096.00 total max gain)
+2026-09-10 15:41:00,871 [INFO]     - Max Risk           : $19,454.00
+2026-09-10 15:41:00,871 [INFO]     - Win Probability    : ~75.2%
+2026-09-10 15:41:00,900 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21646","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:41:30,920 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:41:31,006 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:41:31,141 [INFO] [+] High-probability trade found (POP: 75.2%, Qty: 205 contracts).
+2026-09-10 15:41:31,141 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:41:31,141 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:41:31,142 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:41:31,142 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:41:31,142 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:41:31,142 [INFO]     - Net Credit Target  : $0.07/share ($1,435.00 total max gain)
+2026-09-10 15:41:31,142 [INFO]     - Max Risk           : $19,065.00
+2026-09-10 15:41:31,142 [INFO]     - Win Probability    : ~75.2%
+2026-09-10 15:41:31,198 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21935","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:42:01,220 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:42:01,344 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:42:01,537 [INFO] [+] High-probability trade found (POP: 75.2%, Qty: 102 contracts).
+2026-09-10 15:42:01,538 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:42:01,538 [INFO]     - Quantity (20% Cash): 102 contracts (Committed: $20,400.00)
+2026-09-10 15:42:01,538 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:42:01,538 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039500 @ Strike $39.5
+2026-09-10 15:42:01,538 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:42:01,538 [INFO]     - Net Credit Target  : $0.05/share ($510.00 total max gain)
+2026-09-10 15:42:01,538 [INFO]     - Max Risk           : $19,890.00
+2026-09-10 15:42:01,539 [INFO]     - Win Probability    : ~75.2%
+2026-09-10 15:42:01,563 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:42:31,584 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:42:31,673 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:42:31,914 [INFO] [+] High-probability trade found (POP: 75.2%, Qty: 137 contracts).
+2026-09-10 15:42:31,915 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:42:31,915 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:42:31,916 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:42:31,916 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:42:31,916 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:42:31,916 [INFO]     - Net Credit Target  : $0.06/share ($822.00 total max gain)
+2026-09-10 15:42:31,916 [INFO]     - Max Risk           : $19,728.00
+2026-09-10 15:42:31,917 [INFO]     - Win Probability    : ~75.2%
+2026-09-10 15:42:31,945 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21372","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:43:01,969 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:43:02,060 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:43:02,254 [INFO] [+] High-probability trade found (POP: 75.3%, Qty: 82 contracts).
+2026-09-10 15:43:02,254 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:43:02,255 [INFO]     - Quantity (20% Cash): 82 contracts (Committed: $20,500.00)
+2026-09-10 15:43:02,255 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:43:02,255 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039000 @ Strike $39.0
+2026-09-10 15:43:02,256 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:43:02,256 [INFO]     - Net Credit Target  : $0.05/share ($410.00 total max gain)
+2026-09-10 15:43:02,256 [INFO]     - Max Risk           : $20,090.00
+2026-09-10 15:43:02,257 [INFO]     - Win Probability    : ~75.3%
+2026-09-10 15:43:02,291 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:43:32,316 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:43:32,447 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:43:32,627 [INFO] [+] High-probability trade found (POP: 75.4%, Qty: 137 contracts).
+2026-09-10 15:43:32,627 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:43:32,627 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:43:32,627 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:43:32,628 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:43:32,628 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:43:32,628 [INFO]     - Net Credit Target  : $0.08/share ($1,096.00 total max gain)
+2026-09-10 15:43:32,628 [INFO]     - Max Risk           : $19,454.00
+2026-09-10 15:43:32,630 [INFO]     - Win Probability    : ~75.4%
+2026-09-10 15:43:32,683 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21646","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:44:02,707 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:44:02,808 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:44:03,030 [INFO] [+] High-probability trade found (POP: 75.5%, Qty: 137 contracts).
+2026-09-10 15:44:03,030 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:44:03,030 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:44:03,030 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:44:03,030 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:44:03,030 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:44:03,030 [INFO]     - Net Credit Target  : $0.04/share ($548.00 total max gain)
+2026-09-10 15:44:03,031 [INFO]     - Max Risk           : $20,002.00
+2026-09-10 15:44:03,031 [INFO]     - Win Probability    : ~75.5%
+2026-09-10 15:44:03,053 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21098","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:44:33,077 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:44:33,181 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:44:33,267 [INFO] [+] High-probability trade found (POP: 75.2%, Qty: 205 contracts).
+2026-09-10 15:44:33,267 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:44:33,269 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:44:33,269 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:44:33,269 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:44:33,269 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:44:33,269 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:44:33,269 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:44:33,269 [INFO]     - Win Probability    : ~75.2%
+2026-09-10 15:44:33,299 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:45:03,324 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:45:03,448 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:45:03,741 [INFO] [+] High-probability trade found (POP: 75.4%, Qty: 205 contracts).
+2026-09-10 15:45:03,741 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:45:03,741 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:45:03,743 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:45:03,743 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:45:03,743 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:45:03,743 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:45:03,743 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:45:03,743 [INFO]     - Win Probability    : ~75.4%
+2026-09-10 15:45:03,781 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:45:33,803 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:45:33,901 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:45:34,042 [INFO] [+] High-probability trade found (POP: 75.2%, Qty: 205 contracts).
+2026-09-10 15:45:34,043 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:45:34,043 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:45:34,043 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:45:34,043 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:45:34,043 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:45:34,043 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:45:34,043 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:45:34,043 [INFO]     - Win Probability    : ~75.2%
+2026-09-10 15:45:34,067 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:46:04,091 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:46:04,311 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:46:04,520 [INFO] [+] High-probability trade found (POP: 75.1%, Qty: 205 contracts).
+2026-09-10 15:46:04,520 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:46:04,521 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:46:04,522 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:46:04,522 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:46:04,522 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:46:04,522 [INFO]     - Net Credit Target  : $0.07/share ($1,435.00 total max gain)
+2026-09-10 15:46:04,522 [INFO]     - Max Risk           : $19,065.00
+2026-09-10 15:46:04,522 [INFO]     - Win Probability    : ~75.1%
+2026-09-10 15:46:04,623 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21935","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:46:34,645 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:46:34,801 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:46:34,929 [INFO] [+] High-probability trade found (POP: 74.8%, Qty: 137 contracts).
+2026-09-10 15:46:34,929 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:46:34,929 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:46:34,930 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:46:34,930 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:46:34,930 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:46:34,930 [INFO]     - Net Credit Target  : $0.04/share ($548.00 total max gain)
+2026-09-10 15:46:34,930 [INFO]     - Max Risk           : $20,002.00
+2026-09-10 15:46:34,930 [INFO]     - Win Probability    : ~74.8%
+2026-09-10 15:46:34,977 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21098","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:47:05,010 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:47:05,145 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:47:05,354 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 205 contracts).
+2026-09-10 15:47:05,355 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:47:05,355 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:47:05,356 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:47:05,356 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:47:05,356 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:47:05,356 [INFO]     - Net Credit Target  : $0.07/share ($1,435.00 total max gain)
+2026-09-10 15:47:05,356 [INFO]     - Max Risk           : $19,065.00
+2026-09-10 15:47:05,356 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:47:05,403 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21935","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:47:35,426 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:47:35,564 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:47:35,784 [INFO] [+] High-probability trade found (POP: 63.3%, Qty: 205 contracts).
+2026-09-10 15:47:35,784 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:47:35,784 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:47:35,784 [INFO]     - Short Leg (Sell)   : IBIT260914P00042500 @ Strike $42.5
+2026-09-10 15:47:35,785 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:47:35,785 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:47:35,785 [INFO]     - Net Credit Target  : $0.16/share ($3,280.00 total max gain)
+2026-09-10 15:47:35,785 [INFO]     - Max Risk           : $17,220.00
+2026-09-10 15:47:35,785 [INFO]     - Win Probability    : ~63.3%
+2026-09-10 15:47:35,815 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"23780","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:48:05,832 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:48:05,923 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:48:06,310 [INFO] [+] High-probability trade found (POP: 63.3%, Qty: 205 contracts).
+2026-09-10 15:48:06,310 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:48:06,310 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:48:06,310 [INFO]     - Short Leg (Sell)   : IBIT260914P00042500 @ Strike $42.5
+2026-09-10 15:48:06,310 [INFO]     - Long Leg  (Buy)    : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:48:06,310 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:48:06,310 [INFO]     - Net Credit Target  : $0.12/share ($2,460.00 total max gain)
+2026-09-10 15:48:06,312 [INFO]     - Max Risk           : $18,040.00
+2026-09-10 15:48:06,312 [INFO]     - Win Probability    : ~63.3%
+2026-09-10 15:48:06,346 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"22960","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:48:36,371 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:48:36,465 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:48:36,738 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 137 contracts).
+2026-09-10 15:48:36,738 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:48:36,738 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:48:36,739 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:48:36,739 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:48:36,739 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:48:36,739 [INFO]     - Net Credit Target  : $0.04/share ($548.00 total max gain)
+2026-09-10 15:48:36,740 [INFO]     - Max Risk           : $20,002.00
+2026-09-10 15:48:36,740 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:48:36,772 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21098","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:49:06,796 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:49:06,888 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:49:07,006 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 137 contracts).
+2026-09-10 15:49:07,006 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:49:07,006 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:49:07,007 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:49:07,007 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040000 @ Strike $40.0
+2026-09-10 15:49:07,007 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:49:07,007 [INFO]     - Net Credit Target  : $0.05/share ($685.00 total max gain)
+2026-09-10 15:49:07,007 [INFO]     - Max Risk           : $19,865.00
+2026-09-10 15:49:07,008 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:49:07,034 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:49:37,052 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:49:37,138 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:49:37,273 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 205 contracts).
+2026-09-10 15:49:37,273 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:49:37,273 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:49:37,273 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:49:37,274 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:49:37,274 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:49:37,274 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:49:37,274 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:49:37,274 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:49:37,298 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21525","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:50:07,335 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:50:07,473 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:50:07,702 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 137 contracts).
+2026-09-10 15:50:07,702 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:50:07,703 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:50:07,703 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:50:07,704 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040000 @ Strike $40.0
+2026-09-10 15:50:07,704 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:50:07,704 [INFO]     - Net Credit Target  : $0.05/share ($685.00 total max gain)
+2026-09-10 15:50:07,704 [INFO]     - Max Risk           : $19,865.00
+2026-09-10 15:50:07,704 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:50:07,732 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:50:37,764 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:50:37,955 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:50:38,230 [INFO] [+] High-probability trade found (POP: 74.2%, Qty: 82 contracts).
+2026-09-10 15:50:38,230 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:50:38,230 [INFO]     - Quantity (20% Cash): 82 contracts (Committed: $20,500.00)
+2026-09-10 15:50:38,231 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:50:38,232 [INFO]     - Long Leg  (Buy)    : IBIT260914P00039000 @ Strike $39.0
+2026-09-10 15:50:38,232 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:50:38,232 [INFO]     - Net Credit Target  : $0.06/share ($492.00 total max gain)
+2026-09-10 15:50:38,233 [INFO]     - Max Risk           : $20,008.00
+2026-09-10 15:50:38,233 [INFO]     - Win Probability    : ~74.2%
+2026-09-10 15:50:38,274 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20992","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:51:08,297 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:51:08,488 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:51:08,650 [INFO] [+] High-probability trade found (POP: 74.2%, Qty: 137 contracts).
+2026-09-10 15:51:08,650 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:51:08,651 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:51:08,651 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:51:08,651 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:51:08,651 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:51:08,651 [INFO]     - Net Credit Target  : $0.06/share ($822.00 total max gain)
+2026-09-10 15:51:08,651 [INFO]     - Max Risk           : $19,728.00
+2026-09-10 15:51:08,651 [INFO]     - Win Probability    : ~74.2%
+2026-09-10 15:51:08,710 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21372","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:51:38,746 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:51:38,875 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:51:38,987 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 205 contracts).
+2026-09-10 15:51:38,988 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:51:38,988 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:51:38,988 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:51:38,988 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:51:38,988 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:51:38,988 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:51:38,988 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:51:38,989 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:51:39,015 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:52:09,039 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:52:09,143 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:52:09,287 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 137 contracts).
+2026-09-10 15:52:09,287 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:52:09,287 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:52:09,287 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:52:09,287 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040000 @ Strike $40.0
+2026-09-10 15:52:09,288 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:52:09,288 [INFO]     - Net Credit Target  : $0.05/share ($685.00 total max gain)
+2026-09-10 15:52:09,288 [INFO]     - Max Risk           : $19,865.00
+2026-09-10 15:52:09,288 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:52:09,312 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:52:39,340 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:52:39,535 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:52:39,663 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 205 contracts).
+2026-09-10 15:52:39,663 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:52:39,663 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:52:39,663 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:52:39,663 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:52:39,664 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:52:39,664 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:52:39,664 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:52:39,664 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:52:39,692 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21525","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:53:09,719 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:53:09,821 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:53:10,110 [INFO] [+] High-probability trade found (POP: 74.3%, Qty: 82 contracts).
+2026-09-10 15:53:10,112 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:53:10,112 [INFO]     - Quantity (20% Cash): 82 contracts (Committed: $20,500.00)
+2026-09-10 15:53:10,112 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:53:10,112 [INFO]     - Long Leg  (Buy)    : IBIT260914P00039000 @ Strike $39.0
+2026-09-10 15:53:10,112 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:53:10,112 [INFO]     - Net Credit Target  : $0.05/share ($410.00 total max gain)
+2026-09-10 15:53:10,112 [INFO]     - Max Risk           : $20,090.00
+2026-09-10 15:53:10,112 [INFO]     - Win Probability    : ~74.3%
+2026-09-10 15:53:10,173 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"20910","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:53:40,194 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:53:40,312 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:53:40,555 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 137 contracts).
+2026-09-10 15:53:40,555 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:53:40,555 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:53:40,555 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:53:40,555 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:53:40,555 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:53:40,555 [INFO]     - Net Credit Target  : $0.05/share ($685.00 total max gain)
+2026-09-10 15:53:40,555 [INFO]     - Max Risk           : $19,865.00
+2026-09-10 15:53:40,556 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:53:40,589 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21235","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:54:10,617 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:54:10,746 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:54:10,866 [INFO] [+] High-probability trade found (POP: 74.3%, Qty: 205 contracts).
+2026-09-10 15:54:10,867 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:54:10,867 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:54:10,867 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:54:10,868 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:54:10,868 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:54:10,868 [INFO]     - Net Credit Target  : $0.07/share ($1,435.00 total max gain)
+2026-09-10 15:54:10,868 [INFO]     - Max Risk           : $19,065.00
+2026-09-10 15:54:10,868 [INFO]     - Win Probability    : ~74.3%
+2026-09-10 15:54:10,898 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21935","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:54:40,922 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:54:41,087 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:54:41,200 [INFO] [+] High-probability trade found (POP: 74.3%, Qty: 205 contracts).
+2026-09-10 15:54:41,201 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:54:41,202 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:54:41,202 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:54:41,202 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:54:41,202 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:54:41,202 [INFO]     - Net Credit Target  : $0.04/share ($820.00 total max gain)
+2026-09-10 15:54:41,202 [INFO]     - Max Risk           : $19,680.00
+2026-09-10 15:54:41,202 [INFO]     - Win Probability    : ~74.3%
+2026-09-10 15:54:41,237 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21320","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:55:11,257 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:55:11,381 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:55:11,558 [INFO] [+] High-probability trade found (POP: 74.5%, Qty: 137 contracts).
+2026-09-10 15:55:11,559 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:55:11,559 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:55:11,559 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:55:11,560 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:55:11,560 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:55:11,560 [INFO]     - Net Credit Target  : $0.08/share ($1,096.00 total max gain)
+2026-09-10 15:55:11,560 [INFO]     - Max Risk           : $19,454.00
+2026-09-10 15:55:11,560 [INFO]     - Win Probability    : ~74.5%
+2026-09-10 15:55:11,609 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21646","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:55:41,632 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:55:41,764 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:55:41,933 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 82 contracts).
+2026-09-10 15:55:41,933 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:55:41,933 [INFO]     - Quantity (20% Cash): 82 contracts (Committed: $20,500.00)
+2026-09-10 15:55:41,933 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:55:41,934 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039000 @ Strike $39.0
+2026-09-10 15:55:41,934 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:55:41,934 [INFO]     - Net Credit Target  : $0.05/share ($410.00 total max gain)
+2026-09-10 15:55:41,934 [INFO]     - Max Risk           : $20,090.00
+2026-09-10 15:55:41,934 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:55:41,956 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:56:11,981 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:56:12,136 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:56:12,409 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 205 contracts).
+2026-09-10 15:56:12,409 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:56:12,409 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:56:12,409 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:56:12,410 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:56:12,410 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:56:12,410 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:56:12,410 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:56:12,410 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:56:12,464 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21525","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:56:42,483 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:56:42,605 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:56:42,718 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 205 contracts).
+2026-09-10 15:56:42,718 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:56:42,718 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:56:42,718 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:56:42,718 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:56:42,719 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:56:42,719 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:56:42,719 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:56:42,719 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:56:42,736 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:57:12,755 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:57:12,895 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:57:12,997 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 205 contracts).
+2026-09-10 15:57:12,998 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:57:12,998 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:57:12,998 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:57:12,998 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040500 @ Strike $40.5
+2026-09-10 15:57:12,998 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:57:12,999 [INFO]     - Net Credit Target  : $0.05/share ($1,025.00 total max gain)
+2026-09-10 15:57:12,999 [INFO]     - Max Risk           : $19,475.00
+2026-09-10 15:57:12,999 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:57:13,021 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:57:43,046 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:57:43,150 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:57:43,280 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 137 contracts).
+2026-09-10 15:57:43,280 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:57:43,280 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:57:43,281 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:57:43,281 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:57:43,281 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:57:43,281 [INFO]     - Net Credit Target  : $0.06/share ($822.00 total max gain)
+2026-09-10 15:57:43,281 [INFO]     - Max Risk           : $19,728.00
+2026-09-10 15:57:43,281 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:57:43,332 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21372","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:58:13,354 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:58:13,451 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:58:13,609 [INFO] [+] High-probability trade found (POP: 75.1%, Qty: 137 contracts).
+2026-09-10 15:58:13,609 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:58:13,610 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:58:13,610 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:58:13,610 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040000 @ Strike $40.0
+2026-09-10 15:58:13,610 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:58:13,610 [INFO]     - Net Credit Target  : $0.04/share ($548.00 total max gain)
+2026-09-10 15:58:13,610 [INFO]     - Max Risk           : $20,002.00
+2026-09-10 15:58:13,610 [INFO]     - Win Probability    : ~75.1%
+2026-09-10 15:58:13,642 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21098","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:58:43,664 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:58:43,741 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:58:44,075 [INFO] [+] High-probability trade found (POP: 75.2%, Qty: 205 contracts).
+2026-09-10 15:58:44,075 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:58:44,075 [INFO]     - Quantity (20% Cash): 205 contracts (Committed: $20,500.00)
+2026-09-10 15:58:44,076 [INFO]     - Short Leg (Sell)   : IBIT260914P00041500 @ Strike $41.5
+2026-09-10 15:58:44,076 [INFO]     - Long Leg  (Buy)    : IBIT260914P00040500 @ Strike $40.5
+2026-09-10 15:58:44,076 [INFO]     - Expiration         : 2026-09-14 (4 DTE)
+2026-09-10 15:58:44,076 [INFO]     - Net Credit Target  : $0.04/share ($820.00 total max gain)
+2026-09-10 15:58:44,076 [INFO]     - Max Risk           : $19,680.00
+2026-09-10 15:58:44,076 [INFO]     - Win Probability    : ~75.2%
+2026-09-10 15:58:44,118 [ERROR] [-] Order submission failed: {"code":40310000,"cost_basis":"21320","message":"insufficient options buying power","options_buying_power":"2588.8"}
+2026-09-10 15:59:14,140 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:59:14,263 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:59:14,402 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 137 contracts).
+2026-09-10 15:59:14,402 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:59:14,402 [INFO]     - Quantity (20% Cash): 137 contracts (Committed: $20,550.00)
+2026-09-10 15:59:14,403 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:59:14,403 [INFO]     - Long Leg  (Buy)    : IBIT260911P00040000 @ Strike $40.0
+2026-09-10 15:59:14,403 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:59:14,403 [INFO]     - Net Credit Target  : $0.05/share ($685.00 total max gain)
+2026-09-10 15:59:14,403 [INFO]     - Max Risk           : $19,865.00
+2026-09-10 15:59:14,403 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:59:14,422 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 15:59:44,445 [INFO] [*] Cycle Start: Checking open positions and risk thresholds...
+2026-09-10 15:59:44,533 [INFO] [*] Scanning near-term market for setups (Cash: $102,988.80 | 20% Target: $20,597.76)...
+2026-09-10 15:59:44,714 [INFO] [+] High-probability trade found (POP: 74.7%, Qty: 102 contracts).
+2026-09-10 15:59:44,715 [INFO] [*] Executing High-Frequency Bull Put Credit Spread Order...
+2026-09-10 15:59:44,715 [INFO]     - Quantity (20% Cash): 102 contracts (Committed: $20,400.00)
+2026-09-10 15:59:44,715 [INFO]     - Short Leg (Sell)   : IBIT260911P00041500 @ Strike $41.5
+2026-09-10 15:59:44,715 [INFO]     - Long Leg  (Buy)    : IBIT260911P00039500 @ Strike $39.5
+2026-09-10 15:59:44,715 [INFO]     - Expiration         : 2026-09-11 (1 DTE)
+2026-09-10 15:59:44,715 [INFO]     - Net Credit Target  : $0.05/share ($510.00 total max gain)
+2026-09-10 15:59:44,715 [INFO]     - Max Risk           : $19,890.00
+2026-09-10 15:59:44,715 [INFO]     - Win Probability    : ~74.7%
+2026-09-10 15:59:44,740 [ERROR] [-] Order submission failed: {"code":42210000,"message":"position intent mismatch, inferred: sell_to_close, specified: sell_to_open"}
+2026-09-10 16:00:14,763 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:00:44,779 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:01:14,801 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:01:44,822 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:02:14,845 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:02:44,867 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:03:14,896 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:03:44,916 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:04:14,937 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:04:44,954 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:05:14,976 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:05:44,997 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:06:15,019 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:06:45,037 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:07:15,062 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:07:45,083 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:08:15,107 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:08:45,132 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:09:15,152 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:09:45,173 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:10:15,194 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:10:45,217 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:11:15,241 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:11:45,267 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:12:15,285 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:12:45,306 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:13:15,335 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:13:45,360 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:14:15,380 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:14:45,404 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:15:15,425 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:15:45,448 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:16:15,477 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:16:45,495 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:17:15,515 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:17:45,537 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:18:15,629 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-10 16:18:45,650 [INFO] [*] US Market is currently CLOSED. Next open: 2026-09-11 09:30:00-04:00
+2026-09-11 10:53:41,729 [INFO] ========================================================================
+2026-09-11 10:53:41,729 [INFO]   IBIT OPTIONS BOT  --  PAPER
+2026-09-11 10:53:41,730 [INFO] ========================================================================
+2026-09-11 10:53:41,730 [INFO]   market open        : True (next close 2026-09-11 16:00:00-04:00)
+2026-09-11 10:53:41,747 [INFO]   cash               : $102,961.75
+2026-09-11 10:53:41,747 [INFO]   options buying pwr : $2,561.75
+2026-09-11 10:53:41,747 [INFO]   risk deployed      : $0 of $6,117 budget (0%)
+2026-09-11 10:53:41,748 [INFO]   trading            : enabled
+2026-09-11 10:53:41,748 [INFO]   realized P&L today : $0.00
+2026-09-11 10:53:42,057 [INFO] ------------------------------------------------------------------------
+2026-09-11 10:53:42,057 [INFO]   spot $44.66   regime bull   RSI 62
+2026-09-11 10:53:42,057 [INFO]   ATM IV 38.2%   forecast RV 42.0%   IV/RV 0.91   IV rank building
+2026-09-11 10:53:42,057 [INFO]   edge present       : no -- IV/RV 0.91 < 1.10; IV-RV -0.038 < 0.030
+2026-09-11 10:53:42,057 [INFO] ------------------------------------------------------------------------
+2026-09-11 10:53:42,057 [INFO]   open spreads: 0 (max 4)
+2026-09-11 10:53:42,057 [INFO] ========================================================================
+2026-09-11 10:53:44,246 [INFO] spot $44.66 | regime bull | ATM IV 38.7% | RV 42.0% | IV/RV 0.92
+2026-09-11 10:53:44,272 [INFO] no candidates: IV/RV 0.92 < 1.10; IV-RV -0.033 < 0.030
+2026-09-11 10:53:54,618 [INFO] ========================================================================
+2026-09-11 10:53:54,619 [INFO]   IBIT OPTIONS BOT  --  PAPER
+2026-09-11 10:53:54,619 [INFO] ========================================================================
+2026-09-11 10:53:54,619 [INFO]   market open        : True (next close 2026-09-11 16:00:00-04:00)
+2026-09-11 10:53:54,619 [INFO]   equity             : $101,949.75
+2026-09-11 10:53:54,619 [INFO]   cash               : $102,961.75
+2026-09-11 10:53:54,619 [INFO]   options buying pwr : $2,561.75
+2026-09-11 10:53:54,619 [INFO]   risk deployed      : $0 of $6,117 budget (0%)
+2026-09-11 10:53:54,619 [INFO]   trading            : enabled
+2026-09-11 10:53:54,619 [INFO]   realized P&L today : $0.00
+2026-09-11 10:53:54,967 [INFO] ------------------------------------------------------------------------
+2026-09-11 10:53:54,968 [INFO]   spot $44.66   regime bull   RSI 62
+2026-09-11 10:53:54,968 [INFO]   ATM IV 38.5%   forecast RV 42.0%   IV/RV 0.92   IV rank building
+2026-09-11 10:53:54,968 [INFO]   edge present       : no -- IV/RV 0.92 < 1.10; IV-RV -0.035 < 0.030
+2026-09-11 10:53:54,968 [INFO] ------------------------------------------------------------------------
+2026-09-11 10:53:54,968 [INFO]   open spreads: 0 (max 4)
+2026-09-11 10:53:54,968 [INFO] ========================================================================
+2026-09-11 10:53:57,403 [INFO] spot $44.66 | regime bull | ATM IV 38.8% | RV 42.0% | IV/RV 0.92
+2026-09-11 10:53:57,479 [INFO] no candidates: no positive-EV structure (best EV $-7.16/ct on put_credit 2026-10-09 (28d) S42.5P / B41.5P cr=$0.29 w=$1 (29%) POP=66.5% EV=$-7.16/ct)
